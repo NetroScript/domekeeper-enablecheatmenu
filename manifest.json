@@ -1,0 +1,21 @@
+{
+  "name": "EnableCheatMenu",
+  "namespace": "NetroScript",
+  "version_number": "1.0.0",
+  "description": "Allows the user to access the developer cheat menu by pressing F1.",
+  "website_url": "https://github.com/NetroScript/domekeeper-enablecheatmenu",
+  "dependencies": [],
+  "extra": {
+	"godot": {
+	  "authors": ["NetroScript"],
+	  "compatible_game_version": ["4.2.0"],
+	  "compatible_mod_loader_version": ["7.0.0"],
+	  "description_rich": "",
+	  "image": null,
+	  "incompatibilities": [],
+	  "load_before": [],
+	  "optional_dependencies": [],
+	  "tags": ["cheating"]
+	}
+  }
+}
