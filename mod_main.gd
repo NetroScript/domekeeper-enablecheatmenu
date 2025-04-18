@@ -20,6 +20,12 @@ func hookedToggleCheats(chain: ModLoaderHookChain) -> void:
 		
 	print("Hooked Cheat Toggle Call")
 	
+	# Do not allow Cheat Menu in competitive game modes
+	if CheatDetection.isRunning:
+		print("Competitive Game Mode Detected, falling back to default Chat Toggle Behavior")
+		chain.execute_next()
+		return
+	
 	# Store the old dev mode state
 	var old_state : bool = GameWorld.devMode
 	
