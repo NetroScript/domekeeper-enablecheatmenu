@@ -4,7 +4,7 @@ A tiny mod for [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Kee
 
 ## Installation
 
-1. Subscribe/via Steam Workshop: _[link coming soon]_  
+1. Subscribe/via Steam Workshop: [Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=3466318087)
 
 ## Usage
 
