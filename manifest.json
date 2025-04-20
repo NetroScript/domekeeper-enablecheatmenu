@@ -1,7 +1,7 @@
 {
   "name": "EnableCheatMenu",
   "namespace": "NetroScript",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "description": "Allows the user to access the developer cheat menu by pressing F1.",
   "website_url": "https://github.com/NetroScript/domekeeper-enablecheatmenu",
   "dependencies": [],
